@@ -1,6 +1,15 @@
-🔥 ₳tish Labs NFTs 🔥
-Welcome to Atish Labs. We create Exclusive Cardano Native non fungible tokens. Get your limited edition NFT before they are sold out at https://Atish.Art.
+🔥 `₳tish Labs` 🔥<br>
+Welcome to Atish Labs on [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/AtishLabs). We mint dank NFTs. We create Exclusive Cardano Native non fungible tokens. Get your limited edition NFT before they are sold out at https://Atish.Art.
 
+
+
+---
+#### 🌐 SOCIAL MEDIA LINKS:
+
+[![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/AtishLabs)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/AtishLabs)
+[![Twitter](https://img.shields.io/badge/-Twitter-teal?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AtishLabs)
+[![Discord](https://img.shields.io/badge/-discord-purple?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/m2V3YQmMua)
 
 
 <!--
