@@ -1,5 +1,5 @@
 🔥 `₳tish Labs` 🔥<br>
-Welcome to Atish Labs on [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/AtishLabs). We mint dank NFTs. We create Exclusive Cardano Native non fungible tokens. Get your limited edition NFT before they are sold out at https://Atish.Art.
+Welcome to Atish Labs on [![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/AtishLabs). We mint dank NFTs. Exclusive Cardano Native non fungible tokens. Home to collections like FF1Punks, KarateXplosion, Pikachu, Miner NFT and many more. Get your limited edition NFT before they are sold out at https://Atish.Art.
 
 
 
